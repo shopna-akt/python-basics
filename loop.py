@@ -27,3 +27,13 @@ for el in tup:
 name = "Shopna"
 for el in name:
     print(el)
+
+#range in python
+for el in range (5):
+    print (el)
+
+for el in range (2,8):
+    print(el)
+
+for el in range(1,12,2):
+    print(el)
